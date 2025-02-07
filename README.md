@@ -17,14 +17,11 @@ Olá! Me chamo **Alec Ikawa**, tenho 23 anos e estou **iniciando minha jornada n
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-<div align="left">
-  
- 
-        
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="HTML5" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="CSS" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="CSS" style="margin-right: 15px;">
+<div align="left">    
+  <a href="" title="HTML5"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" style="margin-right: 15px;"></a>
+  <a href="" title="CSS3"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="margin-right: 15px;"></a>
+  <a href="" title="Javascript"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" style="margin-right: 15px;"></a>
+  <a href="" title="Git"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="margin-right: 15px;"></a>
 </div>
 
 ---
