@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8037ff&size=35&Left=true&vLeft=true&width=1000&lines=Olá,+Meu+nome+é+Alec+Ikawa;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ### 👨‍💻 Sobre mim:
-Olá! tenho 23 anos e sou formado em Design Gráfico pela UNIP. Atualmente estou migrando de area e **iniciando minha jornada no mundo da tecnologia**. Com um breve conhecimento em **HTML**, **CSS** e **JS**, estou em busca aprender mais sobre o front-end e back-end. 
+Olá! tenho 24 anos e sou formado em Design Gráfico pela UNIP. Atualmente estou migrando de area e **iniciando minha jornada no mundo da tecnologia**. Com um breve conhecimento em **HTML**, **CSS** e **JS**, estou em busca aprender mais sobre o front-end e back-end. 
 
 💻 **Objetivo Profissional**
 
