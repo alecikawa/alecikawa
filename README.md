@@ -24,6 +24,7 @@ Meu foco é me tornar um Desenvolvedor FullStack, com habilidades tanto no front
   <a href="" title="CSS3"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="margin-right: 15px;"></a>
   <a href="" title="Javascript"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" style="margin-right: 15px;"></a>
   <a href="" title="Git"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="margin-right: 15px;"></a>
+   <a href="" title="Git"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/java.svg" alt="git" style="margin-right: 15px;"></a>
 </div>
 
 ---
